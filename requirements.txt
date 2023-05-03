@@ -1,0 +1,10 @@
+langchain
+openai
+chromadb
+pypdf
+tiktoken
+faiss-cpu
+Flask
+unstructured
+Cython
+pdfminer.six

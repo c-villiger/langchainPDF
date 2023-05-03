@@ -1,0 +1,20 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: main",
+            "type": "python",
+            "request": "launch",
+            // sets the python file to run
+            "program": "${workspaceFolder}/main.py",
+            // sets the terminal to run the python file in
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            // sets the python interpreter to the virtual environment
+            "python": "${workspaceFolder}/.venv/Scripts/python.exe"
+        }    
+    ]
+}
