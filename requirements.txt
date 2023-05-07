@@ -8,3 +8,5 @@ Flask
 unstructured
 Cython
 pdfminer.six
+termcolor
+panel
