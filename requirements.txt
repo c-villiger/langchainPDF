@@ -8,3 +8,6 @@ Flask
 unstructured
 Cython
 pdfminer.six
+termcolor
+prettytable
+tqdm
